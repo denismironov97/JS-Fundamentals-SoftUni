@@ -1,5 +1,6 @@
-#Files ignore list
+#Custom Files ignore list
 testing.js
+notes.js
 
 #NodeJS general ignore
 
